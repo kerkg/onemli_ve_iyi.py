@@ -1,3 +1,2 @@
-if herhangi bir düşünceniz or öneriniz or bulduğunuz bir bug varsa:
-  
-   print(yorumlardan bana bildirebilirsiniz)
+bu işlerde yeni olduğum için bazı hatalar yapabilirim ve eğer bir hata yapmısşam şimdiden özür dilerim ve lütfen hata bulursanız yorumlardan bildiriniz
+ayrıca bir öneri veya bir düşünceniz varsa ya da bir bug bulursanız yorumlardan bildirin ve hala python u öğrendiğim için bazı şeyleri yapamayabilirim.
