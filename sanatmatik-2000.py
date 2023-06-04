@@ -1,4 +1,4 @@
-#
+#sanatmatik-2000 turtle teknolojisi ile donatılmış random modülüyle mükemmellestirilmiş bir saheşer olmasıyla beraber görsel sanatlar ödevinizde şizin en iyi dostunuz olacaktır.
 import turtle #x=680,y=350-->sınır
 import random
 import time
@@ -12,5 +12,5 @@ for i in range(çizgi_sayısı):
     y=random.randint(-350,350)
     obje.color(random.choice(colors))
     obje.setposition(x,y)
-time.sleep(5)
+time.sleep(5)#uygulama 5 saniye gecikerek şize screenshot yapma fırsatı sunar.
     
