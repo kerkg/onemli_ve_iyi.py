@@ -1,4 +1,4 @@
-#index out of range hatasını almaktan bıktınızmı o zaman İEO şizin çözümünüzdür.Stringlerde fazla indexi döngü kurarak kullanan bu uygulamaya bayılacaksınız.
+#index out of range hatasını almaktan bıktınızmı o zaman İEO şizin çözümünüzdür.Stringlerde fazla indexi döngü kurarak bitiren ve (!umarım!) doğru harfi sunan bu uygulamaya bayılacaksınız.
 text=input("birşey yaz:")
 text_len=len(text)
 user_in=int(input("index no giriniz:"))
