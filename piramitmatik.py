@@ -1,3 +1,4 @@
+#piramitmatik. turtle teknolojisinin yaratma gücüyle harmanlanmış bu eşşiz uygulama piramit print eder ve çöle yerleştirir ayrıca açıyı değiştirerek bambaşka şeyler yapmanızı sağlar!!
 import turtle
 turtle.bgcolor("yellow")
 t=turtle.Pen()
