@@ -33,5 +33,5 @@ def hexcryepter():
     for i in range(len(encryipted_word)):
         if encryipted_word[i]=="x":
             encryipdet_int=encryipted_word.replace("x","*")
-    print(f"yazının sifrelenmiş halinin matematiksel hali:{eval(encryipdet_int)}")
-    print(f"yazınızın sifrelenmiş hali:{encryipted_word}\nşifreleme başarıyla gerçeklestirilmiştir")
+    print(f"""yazının sifrelenmiş halinin matematiksel hali:{eval(encryipdet_int)}\nyazınızın sifrelenmiş hali:{encryipted_word}
+          şifreleme başarıyla gerçeklestirilmiştir""")
