@@ -1,3 +1,4 @@
+# karşınızda ilk oyunum!!! Bakalım bilgisayarın sayısını tahmin edebilecek misiniz? 5 deneme hakkınız bitmeden yapabilir misin? eğer yapıp yapamayacağını merak ediyorsan dosyayı indir çalıştır ve bam! bu çok zeki yapay zekaya kaşı kazanabilecek misin?! Şimdiden iyi şanslar.
 import random
 import time
 def sayi_Bulma_Oyunu():
