@@ -1,3 +1,4 @@
+# gelismiş sum tejnolojisiyle donatılmış bu harika uygulama iştediğiniz kadar sayının ortalmasını alabilir ve şize veebilir bende bu uygulamanın sizi memnun edeceğini söylerebilirim
 tekrar=int(input("kaç sayının ortalaması alınacak:"))
 sayılar=[]
 for i in range(tekrar):
