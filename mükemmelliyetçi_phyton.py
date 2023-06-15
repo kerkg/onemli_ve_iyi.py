@@ -1,3 +1,4 @@
+# mükemmel count teknolojisinin mükemmel mucizeleriyle çalışan bu mükemmel oyun şize mükemmel bir eğlence ve mükemmel bir zorluk tattıracaktır ve bunu mükemmelliyetçilikle yapacaktır.
 user=input("kimsin sen:")
 string=input("düşünceni şöyle ama bir harfi çok fazla kullanmamaya dikkat et\n:")
 mükemmel_bool=1
