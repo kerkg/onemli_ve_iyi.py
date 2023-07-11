@@ -7,6 +7,7 @@ def hexcryepterV1(kelime,tekrar=1):
             hex_i=hex(ord_i)
             new_str+=hex_i
     return new_str
+hexcryepter("deneme 1-2deneme deneme")
 
 def hexcryepter_dosya_versiyonu(dosya_adı , tekrar=1):
     with open(dosya_adı,"r") as kelime:
